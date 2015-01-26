@@ -1,1 +1,7 @@
-[]
+[{
+	"skill": "Dynamic Web Development",
+	"experience": "Over 4 years experience using PHP+MySql along with other languages to build dynamic and unique web pages"
+},{
+	"skill": "Database Creation",
+	"experience": "Developed numerous database systems and implemented them succesfully"
+}]
