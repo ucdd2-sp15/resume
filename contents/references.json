@@ -1,1 +1,11 @@
-[]
+[{
+    "company": "CU Boulder",
+    "name": "Judith Cass",
+    "position": "Supervisor",
+    "email": "judith.cass@colorado.edu"
+}, {
+	"company": "Echostar",
+	"name": "Hunter Milligan",
+	"position": "Manager",
+	"email": "hunter.milligan@echostar.com"	
+}]
