@@ -9,5 +9,5 @@ table.u-full-width
   each honor in contents['honors.json'].metadata     
     tr
       td= honor.name
-      td= honor.years
+      td= honor.years + ' years'
       td= honor.grade
