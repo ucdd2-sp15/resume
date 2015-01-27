@@ -1,1 +1,10 @@
-[]
+[{
+    "title": "Build a Tourist Guide Desktop Application",
+    "description": " In Software Engineering course: working within a team of three to build a Tourist Guide desktop application that provides users with information about 10 famous cities around the world using Clojure and its concurrency feature.",
+    "image": "1.png"
+},
+{
+    "title": "Design a Food Inspector Mobile Application",
+    "description": "In User Centered Design course: working within a team of four to design a Food Inspector mobile application that helps shoppers to inspect products and ensure whether or not the products are safe to purchase based on the food restrictions the users set up.",
+    "image": "2.png"
+}]
