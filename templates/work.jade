@@ -4,4 +4,8 @@ each item in contents['work.json'].metadata
     small=item.start
     |  - 
     small=item.end
-  p= item.description
+  div.row
+    div.col-md-3
+      img(src='images/' + item.image)
+    div.col-md-9
+      p= item.description
