@@ -1,1 +1,21 @@
-[]
+[{
+    "name": "Sean Michael-Patrick Thompson",
+	"profession": "Professor of Botany, specializing in poisonous byproducts created by bacteria",
+	"number": "303-555-5587",
+	"address": "123 Fake Street, Denver CO"
+}, {
+    "name": "Nickolas Zachery Brown",
+	"profession": "Lord of the Gnomes",
+	"number": "303-555-5857",
+	"address": "124 Imagniary Lane, Denver CO"
+}, {
+    "name": "Joshua Bergeren",
+	"profession": "Professor of Zoology, specializing in Lupines",
+	"number": "303-555-7855",
+	"address": "125 Street Street, Denver CO"
+}, {
+    "name": "Matthew Purner",
+	"profession": "Polyhedral Mathematics Technician",
+	"number": "303-555-7558",
+	"address": "987 Different Street, Denver CO"
+}]
