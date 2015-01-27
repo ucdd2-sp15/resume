@@ -1,2 +1,16 @@
 h3 Work Experiences
-p (todo)
+table.u-full-width
+  thead
+    tr
+      th Sweet Memories
+      th Position
+      th Duration
+      th Description
+  tbody
+  each work in contents['work.json'].metadata     
+    tr
+      td 
+           img(src='images/' + work.image)
+      td= work.position + ' at ' + work.company
+      td= work.years + ' years'
+      td= work.description
