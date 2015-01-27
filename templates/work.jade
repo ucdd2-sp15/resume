@@ -1,2 +1,9 @@
 h3 Work Experiences
-p (todo)
+each work in contents['work.json'].metadata
+  div.row
+    div.seven.columns
+      b=work.company_name 
+      span= ' | ' + work.city + ', ' + work.state
+    div.seven.columns= 'Position: ' + work.position
+    div.seven.columns= 'description: ' + work.description + '\n'
+  br
