@@ -1,0 +1,14 @@
+[{
+	"image": "dragon.jpg",
+	"position": "Development Intern",
+	"company": "DragonDev",
+	"years": 2,
+	"description": "Responsible for assisting development team with software creation and releases."
+}, {
+	"image": "BOC.jpg",	
+	"position": "Student Employee",
+	"company": "University of Colorado Boulder",
+	"years": 4,
+	"description": "Responsible for printing Buff Onecards and bus passes for the CU Community."
+}
+]
