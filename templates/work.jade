@@ -1,2 +1,7 @@
 h3 Work Experiences
-p (todo)
+each item in contents['work.json'].metadata
+  h4
+    small=item.start
+    |  - 
+    small=item.end
+  p= item.description
