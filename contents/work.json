@@ -1,0 +1,16 @@
+[{
+  "company_name": "New Spin 360",
+  "city": "Baltimore",
+  "state": "Maryland",
+  "position": "Software dev",
+  "description": "Python scripting and hardware repairs",
+  "website": "https://www.newspin360.com/"
+},
+{
+  "company_name": "Oak Ridge National Lab",
+  "city": "Oak Ridge",
+  "state": "Tennessee",
+  "position": "Supercomputer core distribution research",
+  "description": "Bash scripting and big data graphing",
+  "website": "http://www.ornl.gov/"
+}]
