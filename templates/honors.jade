@@ -1,2 +1,8 @@
 h3 Honors
-p (todo)
+each item in contents['honors.json'].metadata     
+  h5= item.title
+  div.row
+    div.three.columns
+      img(src='images/' + item.image)
+    div.seven.columns
+      = item.description
