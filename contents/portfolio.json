@@ -1,1 +1,16 @@
-[]
+[{
+    "name": "BitSplit",
+    "language": "Javascript",
+    "url" : "http://bit-split.herokuapp.com",
+    "pic" : "http://i.imgur.com/Asl6xfg.png"
+},
+{
+    "name": "Cointribute",
+    "language": "NodeJS",
+    "url" : "https://intense-escarpment-3682.herokuapp.com"
+},
+{
+    "name" : "SciPy",
+    "language": "Python, C",
+    "url" : "https://github.com/scipy/scipy"
+}]
