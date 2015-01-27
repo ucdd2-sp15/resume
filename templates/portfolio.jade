@@ -1,2 +1,10 @@
 h3 Portfolio
-p (todo)
+- var portfolio = contents['portfolio.json'].metadata
+    h4= portfolio.name
+    br
+    p= portfolio.description
+    br
+    a(href=portfolio.link)
+      img(src='images/' + portfolio.image)
+    br
+

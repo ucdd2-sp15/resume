@@ -1,1 +1,12 @@
-[]
+[{
+    "name": "Coding in Java, C, C++, and Javascript",
+    "years": 5
+}, {
+    "name": "Experience with SQL, GIT, SVN, HTML, and CSS",
+    "years": 2
+}
+, {
+    "name": "Speaks Hebrew fluently",
+    "years": 21
+}
+]
