@@ -1,2 +1,13 @@
 h3 Skills
-p (todo)
+table.u-full-width
+  thead
+    tr
+      th Skill 
+      th Expertise
+      th Experience
+  tbody
+  each skill in contents['skills.json'].metadata     
+    tr
+      td= skill.name
+      td= skill.expertise + ' level'
+      td= skill.experience + ' years'
