@@ -1,2 +1,17 @@
 h3 Work Experiences
-p (todo)
+table.u-full-width
+  thead
+    tr
+      th Company
+      th Position
+      th Start date
+      th End date
+      th Description
+  tbody
+  each experience in contents['work.json'].metadata
+    tr
+      td= experience.company
+      td= experience.position
+      td= experience.start_date
+      td= experience.end_date
+      td= experience.desc
