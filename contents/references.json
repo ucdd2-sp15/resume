@@ -1,1 +1,7 @@
-[]
+[{
+    "name": "Tom",
+    "reference": "Professor"
+}, {
+    "name": "Mike",
+    "reference": "TA"
+}]
