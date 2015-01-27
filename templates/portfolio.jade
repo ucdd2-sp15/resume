@@ -1,2 +1,16 @@
 h3 Portfolio
-p (todo)
+table.u-full-width
+  thead
+    tr
+      th Image
+      th Project Title
+      th Location
+      th Year
+  tbody
+  each project in contents['portfolio.json'].metadata     
+    tr
+      td
+       img(src='images/' + project.image)
+      td= project.name
+      td= project.location
+      td= project.year
