@@ -1,2 +1,14 @@
 h3 References
-p (todo)
+each item in contents['references.json'].metadata     
+  h4= item.title
+  div.row
+    div.three.columns
+    div.seven.columns
+      = item.company
+    div.seven.columns
+      = item.description
+    div.seven.columns
+      = item.phoneNumber
+    div.seven.columns
+      = item.email
+

@@ -1,1 +1,21 @@
-[]
+[{
+	"title": "Tom Yeh",
+	"company": "CU Boulder",
+    "description": "Professor",
+    "phoneNumber": "555-1082",
+    "email": "TomYeh@thisisamadeupemail.zzz"
+},
+{
+	"title": "Tristan Wagar",
+	"company": "CU Boulder",
+    "description": "Student",
+    "phoneNumber": "555-9000",
+    "email": "TristanWagar@thisisamadeupemail.zzz"
+},
+{
+	"title": "Matt Parent",
+	"company": "Fulton Bank",
+    "description": "Financial Advisor",
+    "phoneNumber": "555-1234",
+    "email": "MattParent@thisisamadeupemail.zzz"
+}]
