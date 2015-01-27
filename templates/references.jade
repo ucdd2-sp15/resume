@@ -1,2 +1,11 @@
 h3 References
-p (todo)
+table.u-full-width
+  thead
+    tr
+      th Reference Name
+      th Reference Contact Info
+  tbody
+  each reference in contents['references.json'].metadata     
+    tr
+      td= reference.name
+      td= reference.info
