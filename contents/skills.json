@@ -1,1 +1,39 @@
-[]
+[
+{
+    "title": "Python",
+    "image": "python.png"
+},
+{
+    "title": "C++",
+    "image": "cpp.png"
+},
+{
+    "title": "Paying Bills",
+    "image": "cash.png"
+},
+{
+    "title": "Java",
+    "image": "java.png"
+},
+{
+    "title": "Ruby on Rails",
+    "image": "rails.png"
+},
+{
+    "title": "Ruby",
+    "image": "ruby.png"
+},
+{
+    "title": "Bootstrap",
+    "image": "bs.png"
+},
+{
+    "title": "JavaScript",
+    "image": "js.png"
+},
+{
+    "title": "Best Design Practices",
+    "description": "I am familiar with best design practices including, Object Oriented Design, Test Driven Deveolpment, Auto-Documentation, and Version Control.",
+    "image": "github.png"
+}
+]
