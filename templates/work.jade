@@ -6,4 +6,6 @@ each work in contents['work.json'].metadata
       span= ' | ' + work.city + ', ' + work.state
     div.seven.columns= 'Position: ' + work.position
     div.seven.columns= 'description: ' + work.description + '\n'
+    div.three.columns
+      img(src='images/' + work.image)
   br
