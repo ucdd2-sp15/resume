@@ -1,2 +1,20 @@
 h3 Portfolio
-p (todo)
+
+table.u-full-width
+  thead
+    tr
+      th Project Name
+      th Language
+      th Link
+  tbody
+  each proj in contents['portfolio.json'].metadata
+    tr
+      td=proj.name
+      td=proj.language
+      td
+        a(href=proj.url) Link
+
+each proj in contents['portfolio.json'].metadata
+  if proj.pic
+    center
+        img(src=proj.pic)
