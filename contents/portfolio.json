@@ -1,10 +1,10 @@
 [{
-    "title": "Build a Tourist Guide Desktop Application",
-    "description": " In Software Engineering course: working within a team of three to build a Tourist Guide desktop application that provides users with information about 10 famous cities around the world using Clojure and its concurrency feature.",
-    "image": "1.png"
+    "title": "Mixed Media and Advert Desinger",
+    "description": "For numerous groups around campus, professional individuals, and organizations I've designed everything from logos, tshirts and flyers to posters, bus advertisements and even a childrens' book.",
+    "image": "TAMShirt.JPG"
 },
 {
-    "title": "Design a Food Inspector Mobile Application",
-    "description": "In User Centered Design course: working within a team of four to design a Food Inspector mobile application that helps shoppers to inspect products and ensure whether or not the products are safe to purchase based on the food restrictions the users set up.",
-    "image": "2.png"
+    "title": "Mobile Application Designer",
+    "description": "For a User-Centered Design class, I was tasked with designing a full mobile app, 'EZList' to help users save money on their grocery shopping runs.  All illustrations, icons, and user interface elements I personally made in Adobe Illustrator.",
+    "image": "ezlogo.JPG"
 }]
