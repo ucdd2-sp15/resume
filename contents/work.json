@@ -1,9 +1,11 @@
 [{
     "name": "CU Boulder Housing & Dining",
     "year": 2013,
+    "image": "buff.gif",
     "detail": "Here I worked as a web developer, maintaining all primary Housing and Dining sites via Drupal and learning a little about database management."
 }, {
     "name": "Zayo Group",
     "year": 2014,
+    "image": "cwk.JPG",
     "detail": "Here I worked as a front-end web app developer, constructing a shopping experience for Zayo clients via Salesforce and Apex coding."
 }]
