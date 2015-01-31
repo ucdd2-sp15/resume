@@ -3,6 +3,8 @@
 Resume using Wintersmith
 
 
+[ucdd2-]
+
 # Preview
 
 	$ wintersmith preview

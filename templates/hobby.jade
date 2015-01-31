@@ -1,11 +1,12 @@
-h3 Hobby
-table.u-full-width
-  thead
-    tr
-      th Name
-      th Experience
-  tbody
-  each hobby in contents['hobby.json'].metadata     
-    tr
-      td= hobby.name
-      td= hobby.years + ' years'
+div#hobby
+    h3 Hobby
+    table.u-full-width
+      thead
+        tr
+          th Name
+          th Experience
+      tbody
+      each hobby in contents['hobby.json'].metadata     
+        tr
+          td= hobby.name
+          td= hobby.years + ' years'

@@ -10,3 +10,11 @@ img {
 	max-width:100%;
 	border: 1px grey solid;
 }
+
+.hidden {
+	display:none;
+}
+
+.hidden-button {
+	background-color: #222;
+}
