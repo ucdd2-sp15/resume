@@ -1,11 +1,10 @@
 [{
-	"skill": "Dynamic Web Development",
-	"experience": "Over 4 years experience using PHP+MySql along with other languages to build dynamic and unique web pages"
+	"skill": "Full Stack Web Development with Ruby on Rails",
+	"experience": "Over 3 years experience using Ruby on Rails along with other languages to build dynamic and unique web pages"
 },{
-	"skill": "Database Creation",
-	"experience": "Developed numerous database systems and implemented them succesfully"
+	"skill": "WinForms Application Development",
+	"experience": "I help create industry leading engineering software for pipeline integrity analysis for large companies and clients"
 },{
-	"skill": "Linux development",
-	"experience": "Over 4 years using Linux on Virtual and Native systems"
-
+	"skill": "Skating backwards",
+	"experience": "I have been playing hockey for a long time, but not long enough.  Playing hockey is the most fun I'll have any given day."
 }]

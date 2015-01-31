@@ -12,7 +12,7 @@ table.u-full-width
       td=proj.name
       td=proj.language
       td
-        a(href=proj.url) Link
+        a(href=proj.url) !{proj.url}
 
 each proj in contents['portfolio.json'].metadata
   if proj.pic
