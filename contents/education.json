@@ -1,1 +1,13 @@
-[]
+[{
+    "name": "Pomona High School",
+    "years": 4
+}, {
+    "name": "University of Colorado at Boulder (BS, Applied Mathematics)",
+    "years": 3.5
+}, {
+    "name": "University of Colorado at Boulder (Continuing Education, Computer Science)",
+    "years": 1.5
+}, {
+    "name": "University of Colorado at Boulder (Master of Engineering (M.Eng.), Human Computer Interaction)",
+    "years": 2
+}]

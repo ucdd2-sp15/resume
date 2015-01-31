@@ -1,1 +1,6 @@
-[]
+[{
+    "name": "Dropins",
+    "language": "Ruby on Rails",
+    "url" : "http://dropins.herokuapp.com",
+    "pic" : "images/dropins.png"
+}]
