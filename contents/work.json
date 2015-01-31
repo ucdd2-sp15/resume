@@ -1,0 +1,18 @@
+[{
+    "company": "InspireSmart",
+    "position": "Android Development Intern",
+    "start_date": "June 2012",
+    "end_date": "August 2012",
+    "desc": [
+        "Developing an android application: responsible for design and data management"
+    ]
+}, {
+    "company": "Sandia National Labs",
+    "position": "Software Engineering Intern",
+    "start_date": "May 2014",
+    "end_date": "Present",
+    "desc": [
+        "Working on a Ruby on Rails app as the main developer which will be used by US Customs and Border Protection.",
+        "Worked on a side Android project which deals with different types of data visualization"
+    ]
+}]

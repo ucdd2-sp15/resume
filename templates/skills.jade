@@ -1,2 +1,11 @@
 h3 Skills
-p (todo)
+div.row
+each item in contents['skills.json'].metadata
+  div.row
+    div.one.columns
+      img(src='images/' + item.image)
+    div.six.columns
+      h4= item.title
+  div.row
+    div.seven.columns
+      = item.description

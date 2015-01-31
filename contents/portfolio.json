@@ -1,1 +1,17 @@
-[]
+[{
+    "name": "BuilderGame",
+    "position": "Creator",
+    "link": "https://github.com/entzel/BuilderGame",
+    "image": "buildergame.png"
+}, {
+    "name": "TIM Processing System",
+    "position": "Undergraduate Data Systems Research assistant",
+    "link": "http://lasp.colorado.edu/home/",
+    "image": ""
+  
+}, {
+    "name": "ReviewsOnRails",
+    "position": "Co-creator",
+    "link": "http://reviewsonrails.herokuapp.com/",
+    "image": "reviewsite.png"
+}]

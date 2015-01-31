@@ -1,1 +1,17 @@
-[]
+[{
+	"topic": "Major",
+    "class": "Computer Science, Math"
+
+}, {
+	"topic": "Track",
+    "class": "Human-Centered Design"
+
+}, {
+	"topic": "Minor",
+    "class": "Technology, Arts & Media"
+
+}, {
+	"topic": "GPA",
+	"class": "3.5"
+
+}]
