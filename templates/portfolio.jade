@@ -4,7 +4,7 @@ table.u-full-width
     tr
       th Image
       th Project Title
-      th Location
+      th Link
       th Year
   tbody
   each project in contents['portfolio.json'].metadata     
@@ -12,5 +12,5 @@ table.u-full-width
       td
        img(src='images/' + project.image)
       td= project.name
-      td= project.location
+      td= project.link
       td= project.year

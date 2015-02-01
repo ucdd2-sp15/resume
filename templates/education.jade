@@ -4,10 +4,12 @@ table.u-full-width
 		tr
 			th College
 			th Degree
+			th GPA
 			th Duration
 	tbody
 	each education in contents['education.json'].metadata
 		tr
 			td= education.college
 			td= education.degree
+			td= education.gpa
 			td= education.duration

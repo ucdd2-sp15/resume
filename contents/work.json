@@ -1,14 +1,19 @@
 [{
-	"image": "dragon.jpg",
-	"position": "Development Intern",
-	"company": "DragonDev",
-	"years": 2,
-	"description": "Responsible for assisting development team with software creation and releases."
+	"image": "cdt.png",
+	"position": "Technologist Intern",
+	"company": "Center for Democracy and Technology",
+	"years": "Summer 2014",
+	"description": "-Wrote an IETF RFC draft on technical censorship mechanisms \n -Created Policy for Technologists educational material \n -Translated technical jargon on topics ranging from Bitcoins to Homomorphic Encryption for internal and external consumption"
 }, {
-	"image": "BOC.jpg",	
-	"position": "Student Employee",
-	"company": "University of Colorado Boulder",
-	"years": 4,
-	"description": "Responsible for printing Buff Onecards and bus passes for the CU Community."
-}
-]
+	"image": "revolv.jpg",	
+	"position": "Quality Assurance Intern",
+	"company": "Revolv",
+	"years": "Summer 2013",
+	"description": "-Created REST testing suite for Thrift \n -Created API testing environment with Cucumber \n -Worked on custom PubNum console for developers"
+}, {
+	"image": "rally.png",	
+	"position": "Product Marketing Intern",
+	"company": "Rally Software",
+	"years": "Summer 2012",
+	"description": "-Became well versed in the current Enterprise Agile sector \n -Learned basic Product Marketing research and analysis \n -Created a Drupal site for the Product Marketing team on the company intranet"
+}]

@@ -1,16 +1,11 @@
 [{
-    "image": "p1.jpg",
-    "name": "Urban Agriculture Project in Downtown Denver",
-    "location": "Denver, CO",
-    "year": 2012
+    "image": "ietf.gif",
+    "name": "A Survey of Worldwide Censorship Techniques",
+    "link": "https://tools.ietf.org/html/draft-hall-censorship-tech-00",
+    "year": 2014
 }, {
-	"image": "p2.jpg",
-    "name": "Shared Public Space",
-    "location": "Boulder, CO",
-    "year": 2013
-}, {
-	"image": "p3.jpg",
-    "name": "Urban Agriculture Project in Downtown Denver",
-    "location": "Denver, CO",
-    "year": 2012
+	"image": "cdt.png",
+    "name": "Matching Without Sharing: Benefits and Challenges of a PSI Technique",
+    "link": "https://cdt.org/blog/matching-without-sharing-benefits-and-challenges-of-psi-technique/",
+    "year": 2014
 }]

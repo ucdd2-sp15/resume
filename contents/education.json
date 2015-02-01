@@ -1,10 +1,7 @@
 [{
 	"college": "University of Colorado Boulder",
 	"degree": "B.S of Computer Science",
-	"duration": "Fall 2011 - Spring 2015"
-	},
-{
-	"college": "University of Michigan",
-	"degree": "Master of Computer Science",
-	"duration": "Fall 2015 - Spring 2017"
-	}]
+    "GPA": "3.450",
+	"duration": "Fall 2011 - August 2015"
+	}
+]

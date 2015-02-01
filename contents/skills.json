@@ -1,25 +1,30 @@
 [{
-    "name": "Conflict Resolution",
-    "expertise": "Rookie",
-    "experience": "4"
-}, {
-    "name": "Public Speaking",
+    "name": "Python",
     "expertise": "Expert",
-    "experience": "6"
+    "experience": "4 years"
 }, {
-    "name": "Leadership",
+    "name": "Node JS",
     "expertise": "Proficient",
-    "experience": "2"
+    "experience": "2 Years"
 }, {
-    "name": "Creative Writing",
-    "expertise": "Advanced",
-    "experience": "5"
+    "name": "HTML/CSS",
+    "expertise": "Proficient",
+    "experience": "2 Years"
 }, {
-    "name": "Thinking logically",
-    "expertise": "Intermmediate",
-    "experience": "8"
+    "name": "Ruby",
+    "expertise": "Proficient",
+    "experience": "2 Years"
 }, {
-    "name": "Baking",
-    "expertise": "Newbie",
-    "experience": "2"
+    "name": "Scala",
+    "expertise": "Proficient",
+    "experience": "1 Year"
+}, {
+    "name": "C++",
+    "expertise": "Proficient",
+    "experience": "4 years"
+}, 
+{
+    "name": "Machine Learning",
+    "expertise": "Proficient",
+    "experience": "1 Year"
 }]

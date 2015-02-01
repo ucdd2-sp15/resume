@@ -1,15 +1,15 @@
 [{
-    "title": "Python Expert Level A",
-    "description": "Awarded first place in completing the Python Certification",
-    "image": "python_logo.jpg"
+    "title": "Capital One: Summit for Software Engineers",
+    "description": "Hackathon hosted by Capital One for distinguished students",
+    "image": "cap1labs.png"
 },
 {
-    "title": "Environmental Design Scholarship",
-    "description": "Developed a project to reduce waste water sewage toxicity and increased oxygen levels in the surrounding locality. Won a grant of $1,000,000 to implement the same at state-level.",
-    "image": "greentree.jpg"
+    "title": "Enginereing Differential Scholarship",
+    "description": "The engineering department had some extra money, they decided to give some to me.",
+    "image": "cuengineering.png"
 },
 {
     "title": "Hatfield Scholar for Public Policy",
-    "description": "technical policy internship in Washington DC. learnt how to commminucate effectvely in a legal setting and get opinionated.",
+    "description": "technical policy internship in Washington DC.",
     "image": "publicp.png"
 }]
