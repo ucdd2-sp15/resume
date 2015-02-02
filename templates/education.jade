@@ -1,2 +1,7 @@
 h3 Education
-p (todo)
+each item in contents['education.json'].metadata     
+  h6= item.name
+  span= item.startYear 
+  if item.endYear
+    span= "-" + item.endYear
+  p= item.description
