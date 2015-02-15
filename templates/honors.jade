@@ -1,2 +1,11 @@
 h3 Honors
-p (todo)
+table.u-full-width
+  thead
+    tr
+      th Year
+      th Honor
+  tbody
+  each honor in contents['honors.json'].metadata     
+    tr
+      td= honor.year
+      td= honor.detail

@@ -1,1 +1,10 @@
-[]
+[{
+    "title": "Mixed Media and Advert Desinger",
+    "description": "For numerous groups around campus, professional individuals, and organizations I've designed everything from logos, tshirts and flyers to posters, bus advertisements and even a childrens' book.",
+    "image": "TAMShirt.JPG"
+},
+{
+    "title": "Mobile Application Designer",
+    "description": "For a User-Centered Design class, I was tasked with designing a full mobile app, 'EZList' to help users save money on their grocery shopping runs.  All illustrations, icons, and user interface elements I personally made in Adobe Illustrator.",
+    "image": "ezlogo.JPG"
+}]

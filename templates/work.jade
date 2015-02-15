@@ -1,2 +1,11 @@
 h3 Work Experiences
-p (todo)
+table.u-full-width   
+  each work in contents['work.json'].metadata 
+    thead
+      tr
+        th= work.year
+        th= work.name
+    tbody
+      tr
+        img(src='images/' + work.image)
+        td= work.detail
